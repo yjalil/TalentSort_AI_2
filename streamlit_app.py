@@ -1,9 +1,7 @@
-from sklearn.calibration import LabelEncoder
 import streamlit as st
 import joblib
 import re
 import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
 from streamlit_option_menu import option_menu
 import pdfplumber
 from docx import Document
