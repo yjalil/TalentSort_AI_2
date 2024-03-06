@@ -59,3 +59,4 @@ pdfplumber
 python-docx
 streamlit-option-menu
 python-pptx
+joblib
